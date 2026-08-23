@@ -1,0 +1,18 @@
+[submodule "apps/qtcloud-docs"]
+	path = apps/qtcloud-docs
+	url = https://github.com/quanttide/qtcloud-docs.git
+[submodule "packages/quanttide-docs-toolkit"]
+	path = packages/quanttide-docs-toolkit
+	url = https://github.com/quanttide/quanttide-docs-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-documentation-engineering.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-documentation-engineering.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-documentation-engineering.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-documentation-engineering.git
