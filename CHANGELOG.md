@@ -14,6 +14,7 @@
 
 - 注册子模块：`apps/qtcloud-docs`、`packages/quanttide-docs-toolkit`、`examples/default`
 - 注册子模块：`data/context`、`data/journal`、`data/intention`
+- 注册子模块：`apps/qtdocs`（量潮文档中心，统一承载第二大脑文档发布与访问）
 
 ## [0.1.0] - 2026-08-22
 

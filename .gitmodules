@@ -16,3 +16,6 @@
 [submodule "data/intention"]
 	path = data/intention
 	url = https://github.com/quanttide/quanttide-intention-of-document-engineering.git
+[submodule "apps/qtdocs"]
+	path = apps/qtdocs
+	url = https://github.com/quanttide/qtdocs.git

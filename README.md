@@ -21,6 +21,7 @@
 | 路径 | 说明 |
 |------|------|
 | `apps/qtcloud-docs` | QtCloud 文档工程云 (git submodule) |
+| `apps/qtdocs` | 量潮文档中心 (git submodule → qtdocs，统一承载第二大脑文档发布与访问) |
 | `packages/quanttide-docs-toolkit` | 文档工程工具集 (git submodule) |
 | `examples/default` | 文档工程实验室 (git submodule → quanttide-laboratory-of-document-engineering) |
 | `data/context` | 文档工程语境 (git submodule → quanttide-context-of-document-engineering) |
