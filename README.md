@@ -22,10 +22,10 @@
 |------|------|
 | `apps/qtcloud-docs` | QtCloud 文档工程云 (git submodule) |
 | `packages/quanttide-docs-toolkit` | 文档工程工具集 (git submodule) |
-| `examples/default` | 文档工程实验室 (git submodule → quanttide-laboratory-of-documentation-engineering) |
-| `data/context` | 文档工程语境 (git submodule → quanttide-context-of-documentation-engineering) |
-| `data/journal` | 文档工程日志 (git submodule → quanttide-journal-of-documentation-engineering) |
-| `data/intention` | 文档工程意图 (git submodule → quanttide-intention-of-documentation-engineering) |
+| `examples/default` | 文档工程实验室 (git submodule → quanttide-laboratory-of-document-engineering) |
+| `data/context` | 文档工程语境 (git submodule → quanttide-context-of-document-engineering) |
+| `data/journal` | 文档工程日志 (git submodule → quanttide-journal-of-document-engineering) |
+| `data/intention` | 文档工程意图 (git submodule → quanttide-intention-of-document-engineering) |
 
 ## 许可
 

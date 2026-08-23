@@ -6,13 +6,13 @@
 	url = https://github.com/quanttide/quanttide-docs-toolkit.git
 [submodule "examples/default"]
 	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-documentation-engineering.git
+	url = https://github.com/quanttide/quanttide-laboratory-of-document-engineering.git
 [submodule "data/context"]
 	path = data/context
-	url = https://github.com/quanttide/quanttide-context-of-documentation-engineering.git
+	url = https://github.com/quanttide/quanttide-context-of-document-engineering.git
 [submodule "data/journal"]
 	path = data/journal
-	url = https://github.com/quanttide/quanttide-journal-of-documentation-engineering.git
+	url = https://github.com/quanttide/quanttide-journal-of-document-engineering.git
 [submodule "data/intention"]
 	path = data/intention
-	url = https://github.com/quanttide/quanttide-intention-of-documentation-engineering.git
+	url = https://github.com/quanttide/quanttide-intention-of-document-engineering.git
