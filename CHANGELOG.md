@@ -16,6 +16,7 @@
 - 注册子模块：`data/context`、`data/journal`、`data/intention`
 - 注册子模块：`apps/qtdocs`（量潮文档中心，统一承载第二大脑文档发布与访问）
 - 注册子模块：`docs/bylaw`（文档工程章程，quanttide-bylaw-of-document-engineering）
+- 新增 `format/index.md`：量潮文档格式章程（从公司章程 docs/format.md 迁移，升级为量潮社区约定）
 
 ## [0.1.0] - 2026-08-22
 
