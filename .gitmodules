@@ -19,3 +19,6 @@
 [submodule "apps/qtdocs"]
 	path = apps/qtdocs
 	url = https://github.com/quanttide/qtdocs.git
+[submodule "docs/bylaw"]
+	path = docs/bylaw
+	url = https://github.com/quanttide/quanttide-bylaw-of-document-engineering.git

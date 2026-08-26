@@ -27,6 +27,7 @@
 | `data/context` | 文档工程语境 (git submodule → quanttide-context-of-document-engineering) |
 | `data/journal` | 文档工程日志 (git submodule → quanttide-journal-of-document-engineering) |
 | `data/intention` | 文档工程意图 (git submodule → quanttide-intention-of-document-engineering) |
+| `docs/bylaw` | 文档工程章程 (git submodule → quanttide-bylaw-of-document-engineering) |
 
 ## 许可
 
