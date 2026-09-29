@@ -10,6 +10,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-docs-lab`（仓 quanttide-laboratory-of-document-engineering → quanttide-docs-lab）
+
+
 ### 新增
 
 - 注册子模块：`apps/qtcloud-docs`、`packages/quanttide-docs-toolkit`、`examples/default`
